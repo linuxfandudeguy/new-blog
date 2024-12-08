@@ -1,10 +1,13 @@
 ---
-title: The Worst Blog Post Ever
-publishDate: 07 Dec 2024
-description: I wish I could make description unrelated but that is pretty much impossible.
+title:  I made a Terminal Portfolio
+publishDate: 08 Dec 2024
+description: This article shows you how I made my terminal portfolio using React and Typescript.
 ---
 
-![Screenshot 2024-10-13 10 43 37 AM](https://github.com/user-attachments/assets/e0a061ae-35de-4244-b294-6738a1a6a764)
+>  This is a repost Of an old post that I made on my old blog located at [lelbois-blog.vercel.app](https://lelbois-blog.vercel.app/posts/i-made-a-terminal-portfolio) so the date is inaccurate along with probably some information in this article.
+
+
+![Screenshot 2024-10-13 10 43 37 AM](/portfolio.png)
 
 ## Introduction
 
@@ -53,7 +56,7 @@ Users can view previously typed commands by typing ‘history’ in the command 
 Here’s a video demonstrating different themes available in the terminal portfolio and me giving my opinion:
 
 <video width="640" height="360" controls>
-   <source src="/Screen recording 2024-10-13 10.50.04 AM.webm" type="video/webm" />
+   <source src="/demo.webm" type="video/webm" />
    Your browser does not support the video tag.
 </video>
 
