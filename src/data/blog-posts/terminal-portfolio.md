@@ -4,7 +4,7 @@ publishDate: 08 Dec 2024
 description: This article shows you how I made my terminal portfolio using React and Typescript.
 ---
 
->  This is a repost Of an old post that I made on my old blog located at [lelbois-blog.vercel.app](https://lelbois-blog.vercel.app/posts/i-made-a-terminal-portfolio) so the date is inaccurate along with probably some information in this article.
+>  This is a repost of an old post that I made on my old blog located at [lelbois-blog.vercel.app](https://lelbois-blog.vercel.app/posts/i-made-a-terminal-portfolio) so the date is inaccurate along with probably some information in this article.
 
 
 ![Screenshot 2024-10-13 10 43 37 AM](/portfolio.png)
