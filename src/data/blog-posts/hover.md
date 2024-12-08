@@ -1,8 +1,7 @@
-
 ---
 title: A Completely Normal Blog Post (With A Twist)
-publishDate: 01 Dec 2021
-description: Just a regular blog post... or is it?
+publishDate: 07 Dec 2024
+description: Go ahead.
 ---
 
 # A Completely Normal Blog Post (With A Twist)
